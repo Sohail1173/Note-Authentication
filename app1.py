@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 13 02:20:31 2020
-
-@author: Krish Naik
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 12:50:04 2020
-
-@author: krish.naik
-"""
-
-
 import numpy as np
 import pickle
 import pandas as pd
